@@ -1,0 +1,8 @@
+.gitignore
+.env
+**/nginx/certbot
+# ignore all certificates
+*.crt
+*.key
+/ghost
+/ghostmdb
